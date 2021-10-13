@@ -5,3 +5,4 @@ It contains python programming start to end required for Machine learning
 9-10-21-v3 uploaded- typecasting string slicing
 11-10-21-v4 uploaded- bytes, bytearray, immutable, list
 12-10-21-v5 upoaed- List, Tuples
+13-10-21-v6 upoaed- set_frozenset
