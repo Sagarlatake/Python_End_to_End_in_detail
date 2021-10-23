@@ -1,0 +1,20 @@
+1. Write a Python program to remove and print every third number from a list of numbers until the list becomes empty.
+
+2. Write a Python program to create the combinations of 3 digit combo. 
+
+3. Write a Python program to print a long text, convert the string to a list and print all the words and their frequencies. 
+
+4. Write a Python program to count the number of each character of a given text of a text file.
+
+5. Write a Python program to check the sum of three elements (each from an array) from three arrays is equal to a target value. Print all those three-element combinations. 
+Sample data:
+/*
+X = [10, 20, 20, 20]
+Y = [10, 20, 30, 40]
+Z = [10, 30, 40, 20]
+target = 70
+*/
+
+
+6. Write a Python program to add two positive integers without using the '+' operator. 
+Note: Use bit wise operations to add two numbers.
