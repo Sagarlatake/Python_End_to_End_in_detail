@@ -1,0 +1,23 @@
+# Assignment
+1. 
+
+*
+* *
+* * *
+* * * *
+* * * * *
+* * * * * *
+
+write a python program to print above structure.
+
+2.    *
+     * *
+    * * *
+   * * * *
+  * * * * *
+ * * * * * *
+* * * * * * *
+
+write a python program to print stars as shown above.
+
+3.
