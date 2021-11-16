@@ -20,4 +20,12 @@ write a python program to print above structure.
 
 write a python program to print stars as shown above.
 
-3.
+3. Write a program to find a square root of number
+4. Find square root of real or complex numbers no = 4+16j
+5.print the following number pattern
+        1 
+        2 3 
+        4 5 6 
+        7 8 9 10 
+        11 12 13 14 15 
+6. 
