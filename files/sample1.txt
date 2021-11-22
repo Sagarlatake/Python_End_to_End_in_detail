@@ -1,0 +1,3 @@
+This is my new file
+ It is created using write mode
+This is last line
